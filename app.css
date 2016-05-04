@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+background-image: url(img/back.jpg);
+background-size: cover;
+}
+
+.content {
+  width: 970px;
+  max-width: 970px;
+  background-color: white;
+  margin: auto;
+  border-bottom: 2px solid red;
+}
+
+
+
+
+
+.text {
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+}
+
+nav {
+  text-align: center;
+  background-color: red;
+  margin-left: 20px;
+  margin-right: 26px;
+  padding: 10px 0 10px 50px;
+
+
+}
+
+nav a {
+
+  padding-right: 150px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;
+  text-transform: uppercase;
+
+}
+
+.main-info {
+display: flex;
+margin: 30px 20px 30px 20px;
+max-width: inherit;
+
+}
